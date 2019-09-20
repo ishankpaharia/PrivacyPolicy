@@ -1,0 +1,4 @@
+com/privacypolicy/lambda/CreatePrivacyPolicyFunction.class
+com/privacypolicy/lambda/GetPrivacyPolicy.class
+com/privacypolicy/lambda/Request.class
+com/privacypolicy/lambda/UrlTable.class
